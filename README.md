@@ -39,7 +39,7 @@ Baseado no modelo disponível no Freepik:
 
 📝 Créditos
 
-- Freepik → Modelo de referência
+- Freepik → Modelo de referência [Freepik](https://br.freepik.com/vetores-gratis/design-do-modelo-da-pagina-de-login-do-site_13197746.htm#fromView=keyword&page=1&position=0&uuid=856b62ab-e9f9-4ca3-b658-a2934dd52c92&query=Tela+login)
 
 - Icons8 → Ícones de Mensagem e Cadeado
 
