@@ -33,9 +33,9 @@ A proposta é recriar uma tela de login moderna e estilizada com **gradientes, e
 
 📷 Prévia do Layout
 
-Baseado no modelo disponível no Freepik: https://br.freepik.com/vetores-gratis/design-do-modelo-da-pagina-de-login-do-site_13197746.htm#fromView=keyword&page=1&position=0&uuid=856b62ab-e9f9-4ca3-b658-a2934dd52c92&query=Tela+login
+Baseado no modelo disponível no Freepik: 
 
-🔗 [Tela de Login](image.png)
+🔗 [Tela de Login](https://br.freepik.com/vetores-gratis/design-do-modelo-da-pagina-de-login-do-site_13197746.htm#fromView=keyword&page=1&position=0&uuid=856b62ab-e9f9-4ca3-b658-a2934dd52c92&query=Tela+login)
 
 📝 Créditos
 
