@@ -1,4 +1,4 @@
-#📌Projeto Tela de Login
+# 📌Projeto Tela de Login
 
 Este projeto é uma interface simples de **tela de login** desenvolvida em **HTML5 e CSS3**, com design inspirado em um modelo disponibilizado pelo **Freepik**.
 
@@ -6,7 +6,7 @@ A proposta é recriar uma tela de login moderna e estilizada com **gradientes, e
 
 ---
 
-##🚀Tecnologias Utilizadas
+## 🚀Tecnologias Utilizadas
 
 **HTML5** → Estrutura da página
 
@@ -19,7 +19,7 @@ A proposta é recriar uma tela de login moderna e estilizada com **gradientes, e
 └── README.md    # Destalhamento do projeto
 
 
-##🎨Recursos de Design
+## 🎨Recursos de Design
 
 - Fundo com gradientes radiais misturados (background-blend-mode).
 
@@ -42,7 +42,7 @@ Baseado no modelo disponível no Freepik:
 
 - Icons8 → Ícones de Mensagem e Cadeado
 
-##📌Como Usar
+## 📌Como Usar
 
 1 - Clone ou baixe este repositório:
 
