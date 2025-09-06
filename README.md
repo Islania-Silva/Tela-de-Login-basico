@@ -13,6 +13,7 @@ A proposta é recriar uma tela de login moderna e estilizada com **gradientes, e
 **CSS3** → Estilização, gradientes, transições e layout flexbox
 
 📂 Estrutura do Projeto
+
 ├── index.html   # Estrutura principal do login
 ├── style.css    # Estilos da página
 ├── img/         # Pasta de imagens e ícones usados
